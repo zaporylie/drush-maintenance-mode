@@ -3,7 +3,8 @@
     "description": "Validates which drush commands can run when Drupal is in maintenance mode.",
     "type": "drupal-drush",
     "require": {
-        "webflo/drupal-finder": "^1.0"
+        "webflo/drupal-finder": "^1.0",
+        "drush/drush": "~9||~10"
     },
     "license": "GPL-2.0+",
     "authors": [
