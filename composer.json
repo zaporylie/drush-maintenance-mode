@@ -1,0 +1,15 @@
+{
+    "name": "zaporylie/drush-maintenance-mode",
+    "description": "Validates which drush commands can run when Drupal is in maintenance mode.",
+    "type": "drupal-drush",
+    "require": {
+        "webflo/drupal-finder": "^1.0"
+    },
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Jakub Piasecki",
+            "email": "jakub@piaseccy.pl"
+        }
+    ]
+}
