@@ -1,7 +1,7 @@
 Drush Maintenance Mode
 ====
 
-Restricts list of drush commands that are allowed to run when the site is in maintenance mode.
+Restricts list of drush commands that are allowed to be run when the site is in maintenance mode.
 
 # Installation
 
